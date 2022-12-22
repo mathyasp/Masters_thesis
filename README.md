@@ -36,14 +36,10 @@ For this study, I looked at two preserves in Southern New York to further invest
  These results would suggest that recreational trails have the potential to negatively impact an ecosystem, depending on the level of disturbance the trail causes. 
  Though more data is needed to determine the replicability of these results, it would be my recommendation for trail-builders to keep in mind the potential for harm and make efforts to limit the level of disturbance in order to protect the ecosystem.
  
- 
- 
-![image](https://user-images.githubusercontent.com/119142489/209214098-d6b24487-4b98-4471-8cab-770e1f8023a8.png)
+&nbsp;
 
-Figure 1: Total Percent Cover of Native and Invasive species based on Site, Location, and EcoCondition
+![image](https://user-images.githubusercontent.com/119142489/209214098-d6b24487-4b98-4471-8cab-770e1f8023a8.png) <br />Figure 1: Total Percent Cover of Native and Invasive species based on Site, Location, and EcoCondition
 
-
-
-![image](https://user-images.githubusercontent.com/119142489/209214330-374943f5-005a-4345-b635-c46fde449243.png)
-
-Figure 2: Plant Species Richness of Native and Invasive species based on Site, Location, and EcoCondition
+&nbsp;
+  
+![image](https://user-images.githubusercontent.com/119142489/209214330-374943f5-005a-4345-b635-c46fde449243.png) <br />Figure 2: Plant Species Richness of Native and Invasive species based on Site, Location, and EcoCondition
